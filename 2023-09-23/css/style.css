@@ -1,0 +1,15 @@
+h1 span,
+h2 span {
+  color: #ffffff;
+  background-color: #128c7e;
+  border-radius: 4px;
+  padding: 8px;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+}

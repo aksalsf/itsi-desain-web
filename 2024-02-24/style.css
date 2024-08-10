@@ -1,0 +1,40 @@
+button {
+  border: 0;
+  padding: 0;
+  background: none;
+}
+
+.btn {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: all 250ms ease-out;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.btn:active {
+  transform: translateY(2px);
+}
+
+.btn-primer {
+  border-color: #111111;
+  background-color: #111111;
+  color: #ffffff;
+}
+
+.btn-sekunder {
+  border-color: maroon;
+  background-color: maroon;
+  color: pink;
+}
+
+.btn-tersier {
+  border-color: maroon;
+  background-color: #ffffff;
+  color: maroon;
+}

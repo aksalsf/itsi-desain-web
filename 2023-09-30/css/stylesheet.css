@@ -1,0 +1,40 @@
+body {
+  padding: 24px;
+}
+
+#welcome {
+  border: 2px solid #3085C3;
+  border-radius: 4px;
+  padding: 24px;
+  background-color: #3085C3;
+  margin-bottom: 16px;
+}
+
+h1,
+h2,
+p {
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  display: flex;
+  gap: 16px;
+}
+
+#html {
+  border: 2px solid #D83F31;
+  border-radius: 4px;
+  padding: 24px;
+  background-color: #D83F31;
+  width: 65%;
+  transition: all 0.3s ease-in-out;
+}
+
+#css {
+  border: 2px solid #E9B824;
+  border-radius: 4px;
+  padding: 24px;
+  background-color: #E9B824;
+  width: 35%;
+}

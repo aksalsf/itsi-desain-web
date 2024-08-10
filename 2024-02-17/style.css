@@ -1,0 +1,40 @@
+#container {
+  border: 4px solid salmon;
+  border-radius: 8px;
+  width: 500px;
+  padding: 16px;
+}
+
+img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+#header,
+#footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+#footer {
+  align-items: center;
+  flex-flow: row-reverse;
+}
+
+button {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+#closeButton {
+  font-size: 24px;
+}
+
+#likeButton {
+  padding: 8px;
+  border: 2px solid salmon;
+  border-radius: rounded;
+}

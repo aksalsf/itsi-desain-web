@@ -1,0 +1,27 @@
+.kotak {
+    padding: 24px;
+    margin-bottom: 8px;
+}
+
+.bg-merah {
+    background-color: red;
+    border: 1px solid red;
+}
+
+.bg-hijau {
+    background-color: green;
+    border: 1px solid green;
+}
+
+.bg-kuning {
+    background-color: yellow;
+    border: 1px solid yellow;
+}
+
+.teks-putih {
+    color: white;
+}
+
+.teks-hitam {
+    color: black;
+}
